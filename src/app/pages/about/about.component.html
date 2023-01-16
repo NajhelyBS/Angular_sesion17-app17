@@ -1,0 +1,30 @@
+<body>
+    <div style="padding-top: 4em; padding-left: 4em;">
+        <h1>Nosotros:</h1>
+        </div>
+
+    
+   <section>
+    <p style="font-weight: 500; color: rgb(34, 17, 4);">Hacemos de la creatividad una emocionante forma de vida y la potenciamos para generar soluciones innovadoras que transformen realidades. Aplicamos una enseñanza personalizada, que exige la conformación de un cuerpo docente interdisciplinario de artistas y humanistas, cuya metodología de enseñanza se basa en la teoría y la práctica continua. </p>
+   </section>
+
+   <h5 class="text-center" >"Atrévete, aprende y potencio tu talento"</h5>
+
+   <div class="row mt-3">
+    <div class="col-md-6">
+        <div class="text-center" >
+            <h3 [routerLink]="['mision']" routerLinkActive="item" >Misión:</h3>
+            </div>
+    </div>
+    <div class="col-md-6">
+        <div class="text-center">
+            <h3 [routerLink]="['vision']" routerLinkActive="item" > Visión:</h3>
+            </div>
+    </div>
+
+    <div style="height: 250px;">
+    <router-outlet></router-outlet>
+    </div>
+   </div>
+
+</body>

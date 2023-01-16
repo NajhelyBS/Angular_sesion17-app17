@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://preview.redd.it/d0ul9sssbvq81.png?auto=webp&s=11d77480bc9f32f97ffb34581be5243bc74eeddd);
+    background-size: cover;
+    height: 100vh;
+    filter: hue-rotate(146deg);
+    margin-top: -4.1em;
+}
+
+#p {
+    padding-top: 12em;
+}
+
+h1 {
+    color: rgb(187, 161, 14);
+    font-weight: 700;
+}
+
+h3 {
+    color:rgb(6, 7, 0) ;
+    font-weight: 800;
+    letter-spacing:10px;
+}
+
+button {
+    color: rgb(4, 31, 54);
+    font-weight: 760;
+    width: 10em;
+
+      
+}

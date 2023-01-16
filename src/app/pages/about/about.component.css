@@ -1,0 +1,51 @@
+body {
+    background-image: url(https://www.xtrafondos.com/en/descargar.php?id=9455&resolucion=1280x720);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100%;
+}
+
+h1 {
+    color:#3365ee;
+    font-weight: 800;
+    -webkit-text-stroke-color:rgba(252, 234, 77, 0.753) ;
+    -webkit-text-stroke-width: 1px;
+    text-shadow: 2px 7px 2px rgb(16, 139, 5);
+}
+
+section {
+    text-align: justify;
+    margin-top: 2em;
+    margin-left: 4em;
+    margin-right: 4em;
+    background-color:  rgba(252, 234, 77, 0.432);
+    border-radius: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h5 {
+    color:rgb(16, 139, 5);
+    text-shadow: 0px 4px 12px rgba(252, 234, 77, 0.945);
+    font-weight: 700;
+
+}
+
+
+h3 {
+    cursor: pointer;
+    color:rgb(31, 131, 18);
+    font-weight: 900;
+    -webkit-text-stroke-color: rgb(235, 217, 54) ;
+    -webkit-text-stroke-width: 1.5px;
+    text-shadow: 2px 5px 2px rgb(40, 116, 202);
+
+}
+
+.item {
+    -webkit-text-stroke-color: rgb(8, 110, 226) ;
+    -webkit-text-stroke-width: 1.5px;
+    color:rgb(234, 238, 31);
+}

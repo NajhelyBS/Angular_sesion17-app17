@@ -1,0 +1,47 @@
+body {
+    padding-left: 4em;
+    padding-top: 1em;
+    padding-bottom: 2em;
+    background-color: transparent;
+}
+
+section {
+    background-color: rgba(8, 92, 46, 0.363);
+    margin-right: 14.6em;
+    border-radius: 20px;
+
+}
+
+#icon {
+    width: 14em;
+}
+
+svg {
+    border: dashed rgba(8, 92, 46, 0.623);
+    color: rgb(53, 95, 212);
+    padding: 2em;
+    border-radius: 100%;
+    background-color: rgba(250, 250, 236, 0.493);
+}
+
+#parrafo {
+    width: 30em;
+    padding-top:2em;
+    text-align: justify;
+}
+
+p {
+    font-weight: 700;
+    color: rgb(22, 68, 218);
+    text-shadow: 1px 2px 2px white;
+}
+
+#imagen {
+    padding-left: 5em;
+
+}
+
+img{ 
+    border-radius: 3em;
+    border: ridge rgb(65, 46, 6);
+}
